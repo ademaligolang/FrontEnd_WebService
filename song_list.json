@@ -1,0 +1,53 @@
+{
+   "songs":[
+      {  "id":1000,
+         "title":"Heroes",
+         "artists":[
+            {
+               "name":"David Bowie"
+            },
+            {
+               "name":"Brian Eno"
+            }
+         ]
+      },
+      {  "id": 2000,
+         "title":"Heroes Remix",
+         "artists":[
+            {
+               "name":"D. Rovert Bowie"
+            },
+            {
+               "name":"Jean Michel Jarre"
+            },
+            {
+               "name":"Brian Eno"
+            }
+         ]
+      },
+      {
+         "id": 3000,
+         "title":"Equinox",
+         "artists":[
+            {
+               "name":"Jean Michel Jarre"
+            },
+            {
+               "name":"Merman"
+            }
+         ]
+      },
+      {
+         "id": 4000,
+         "title":"Equinox (Hero Remix)",
+         "artists":[
+            {
+               "name":"Jean M. Jarre"
+            },
+            {
+               "name":"Merman"
+            }
+         ]
+      }
+   ]
+}
